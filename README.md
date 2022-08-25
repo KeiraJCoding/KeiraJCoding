@@ -12,7 +12,7 @@
 <tr><th scope='row'>Education</th><td>BA/Hons In Counselling skills with Psychology</td></tr>
 <tr><th scope='row'>University</th><td>University of Chester</td></tr>
 <tr><th scope='row'>Nationality</th><td>English</td></tr>
-<tr><th scope='row'>Occupation</th><td>Junior Developer (in training)</td></tr>
+<tr><th scope='row'>Occupation</th><td>Junior Software Developer/Instructor (in training)</td></tr>
 <tr><th scope='row'>Skills</th><td>HTML, CSS, JavaScript, Node.js, git, Python, React</td></tr>
 <tr><th scope='row'>Other Name</th><td>KeiraJCoder</td></tr>
  <tr><th scope='row'>Known For</th><td>Being obsessed with Doctor Who and all things weeb</td></tr>
